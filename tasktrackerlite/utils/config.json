@@ -1,0 +1,7 @@
+{
+    "selectquery": "SELECT * FROM TaskTracker",
+    "insertQuery": "insert into TaskTracker values (?,?,?,?,?,?)",
+    "deleteQuery": "delete from TaskTracker where TaskID=?",
+    "getLastRow":"select last_insert_rowid()",
+    "getTaskByTitle":"SELECT * FROM TaskTracker where title=?"
+}
