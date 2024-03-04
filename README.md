@@ -1,4 +1,6 @@
-# TaskTrackerAPI
+# TaskTracker
+****Steps to setup locally****
+
 ****Backend API for updating Database****
  <br />
 Backend: Node.js with Express.js <br />
